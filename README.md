@@ -111,7 +111,7 @@ Building Aria surfaced production lessons most tutorials skip:
 
 1. **LLMs are notoriously bad at calibrating their own confidence.** The classifier returned 100% confidence on garbage input until I rewrote the prompt with explicit calibration rules. This is why confidence-first routing exists — even calibrated models occasionally over-confident, and the routing layer is the safety net.
 
-2. **Infinite loops are a critical failure mode in agentic systems.** I introduced a subtle graph cycle (drafter → retriever instead of drafter → reviewer) that didn't crash but kept calling the LLM indefinitely. I diagnosed it by counting node invocations. Production agentic systems need explicit recursion limits and per-node call monitoring.
+2. **Infinite loops are a critical failure mode in agentic systems.** I introduced a subtle graph cycle (drafter -> retriever instead of drafter -> reviewer) that didn't crash but kept calling the LLM indefinitely. I diagnosed it by counting node invocations. Production agentic systems need explicit recursion limits and per-node call monitoring.
 
 3. **Mock implementations must mirror real LLM behaviour faithfully.** My initial mock searched the entire prompt for keywords, which matched system instructions instead of the customer message. Tests passed; reality diverged. Mock fidelity is a real production concern.
 
