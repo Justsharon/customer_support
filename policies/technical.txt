@@ -1,0 +1,31 @@
+TECHNICAL SUPPORT POLICY
+
+Issue Categories
+- App crashes and errors
+- Login and authentication problems
+- Account access issues  
+- Feature malfunctions
+- Performance problems
+
+Response Times
+- Critical (cannot use service): 2 hour response, 24 hour resolution target
+- High (major feature broken): 4 hour response, 48 hour resolution target
+- Standard (minor issue): 24 hour response, 5 day resolution target
+
+Required Information
+When reporting a technical issue, customers should provide:
+- Device type and operating system version
+- App version (Settings > About)
+- Steps to reproduce the issue
+- Screenshots or screen recordings if applicable
+- Error messages exactly as displayed
+
+Escalation Path
+Issues unresolved within target windows are automatically escalated to 
+senior engineering. Customers can request immediate escalation for 
+business-critical issues affecting paid tier subscribers.
+
+Known Issues
+A list of known issues and their status is maintained at status.example.com. 
+Customers should check this page before reporting to ensure the issue is 
+not already being addressed.

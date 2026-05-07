@@ -1,0 +1,27 @@
+BILLING POLICY
+
+Payment Methods Accepted
+We accept Visa, Mastercard, American Express, PayPal, and Apple Pay. 
+Bank transfers are accepted for orders over $500.
+
+Duplicate Charges
+If you notice a duplicate charge on your account, please contact our 
+billing team within 30 days. Duplicate charges are typically refunded 
+within 5-7 business days. We will require the order ID and the date 
+of both charges to investigate.
+
+Subscription Billing
+Subscription customers are billed on the same date each month. To pause 
+or cancel a subscription, customers must do so at least 48 hours before 
+the next billing cycle. Refunds for unused portions of subscription 
+periods are issued as account credits.
+
+Failed Payments
+If a payment fails, we will retry automatically after 3 days. After 
+two failed retry attempts, the account will be temporarily suspended 
+until payment is updated.
+
+Disputes
+For disputed charges, customers should contact us before filing a 
+chargeback with their bank. Direct resolution typically takes 3-5 
+business days versus 30-60 days for a chargeback process.
